@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fee-bump/static/css/main.51771d59.css",
+    "main.js": "/fee-bump/static/js/main.1685f9cf.js",
+    "index.html": "/fee-bump/index.html",
+    "main.51771d59.css.map": "/fee-bump/static/css/main.51771d59.css.map",
+    "main.1685f9cf.js.map": "/fee-bump/static/js/main.1685f9cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51771d59.css",
+    "static/js/main.1685f9cf.js"
+  ]
+}
