@@ -25,5 +25,3 @@ We believe in coordinating with security researchers to ensure that the fix is r
 We believe in rewarding the valuable work of security researchers and ethical hackers who help us keep Firefish secure.
 
 While we do not have a formal bug bounty program with fixed reward tiers at this time, we may offer a **discretionary monetary reward** for unique, severe, and high-quality vulnerability reports. The decision to grant a reward and its amount is at our sole discretion, based on the vulnerability's impact, severity, and the quality of the report provided.
-
-We may also offer public recognition for your efforts.
