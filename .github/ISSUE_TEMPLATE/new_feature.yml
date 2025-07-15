@@ -1,0 +1,11 @@
+---
+name: My Template
+about: This is a test.
+---
+- type: markdown
+  attributes:
+    value: "This is non-editable text that should always appear."
+- type: textarea
+  id: user-input
+  attributes:
+    label: Your Input Here
