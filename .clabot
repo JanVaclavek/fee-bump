@@ -1,0 +1,17 @@
+# The URL to the raw text of your CLA stored in this repository.
+gist: "https://raw.githubusercontent.com/JanVaclavek/fee-bump/refs/heads/main/legal/ICLA.md"
+
+# The custom comment to post on pull requests.
+comment: |
+  Hi there, thanks for your contribution to Firefish!
+
+  Before we can review this pull request, we need you to sign our [Contributor License Agreement (CLA)]({gist}) to ensure we have the necessary rights to use your work.
+
+  **[Please click here to review and sign the CLA]({cla_sign_url})**
+
+  Thanks!
+  - The Firefish Team
+
+
+
+

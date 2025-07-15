@@ -4,7 +4,7 @@ body:
   - type: textarea
     id: issue-description
     attributes:
-      label: Issue description?
+      label: Issue description
       description: Please provide a clear and detailed description of your suggestion.
     validations:
       required: true
@@ -15,5 +15,5 @@ body:
       label: Firefish Individual Contributor License Agreement
       description: Our project requires all contributions to be licensed under our CLA. Please confirm your agreement below.
       options:
-        - label: I have read and agree that my contribution is licensed to Firefish under the terms of the [Contributor License Agreement (CLA)](https://docs.firefish.io/legal/terms-of-service)
+        - label: I have read and agree that my contribution is licensed to Firefish under the terms of the [Contributor License Agreement (CLA)](https://raw.githubusercontent.com/JanVaclavek/fee-bump/refs/heads/main/legal/ICLA.md).
           required: true
