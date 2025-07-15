@@ -1,11 +1,42 @@
 ---
-name: My Template
-about: This is a test.
+name: Bug Report
+about: Create a report to help us improve
+title: "[BUG] "
+labels: bug
 ---
-- type: markdown
-  attributes:
-    value: "This is non-editable text that should always appear."
-- type: textarea
-  id: user-input
-  attributes:
-    label: Your Input Here
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for helping us improve Firefish!** Please provide as much detail as possible below.
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        *By submitting this issue, you agree that any ideas or code snippets included are licensed to us under our CLA.*
+
+  - type: checkboxes
+    id: pre-flight-check
+    attributes:
+      label: Pre-flight Checklist
+      description: Please confirm the following before submitting.
+      options:
+        - label: I have searched the existing issues and this is not a duplicate.
+          required: true
+        - label: I am able to reproduce this issue consistently.
+          required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        *By submitting this issue, you agree that any ideas or code snippets included are licensed to us under our CLA.*
