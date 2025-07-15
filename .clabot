@@ -1,5 +1,5 @@
 # The URL to the raw text of your CLA stored in this repository.
-gist: "https://raw.githubusercontent.com/JanVaclavek/fee-bump/refs/heads/main/legal/ICLA.md"
+gist: "https://raw.githubusercontent.com/JanVaclavek/fee-bump/main/legal/ICLA.md"
 
 # The custom comment to post on pull requests.
 comment: |
