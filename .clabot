@@ -1,16 +1,10 @@
-# The URL to the raw text of your CLA stored in this repository.
-gist: "https://raw.githubusercontent.com/JanVaclavek/fee-bump/main/legal/ICLA.md"
+# This is a temporary test configuration.
+gist: "https://gist.github.com/JanVaclavek/27b882dc1bf1e90ba64e3711b2729d93"
 
-# The custom comment to post on pull requests.
 comment: |
-  Hi there, thanks for your contribution to Firefish!
+  This is a test. If you see this comment, the .clabot file is working correctly.
 
-  Before we can review this pull request, we need you to sign our [Contributor License Agreement (CLA)]({gist}) to ensure we have the necessary rights to use your work.
-
-  **[Please click here to review and sign the CLA]({cla_sign_url})**
-
-  Thanks!
-  - The Firefish Team
+  Please sign the test CLA to continue: {cla_sign_url}
 
 
 
