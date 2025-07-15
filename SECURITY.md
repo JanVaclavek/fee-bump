@@ -10,13 +10,13 @@ To ensure the confidentiality of your finding, **please do not report security v
 
 Instead, we ask that you use GitHub's **Private Vulnerability Reporting** feature.
 
-1. Go to the "Security" tab of our GitHub repository.
+1. Go to the "Security" tab of our GitHub repository...
 2. Click the "Report a vulnerability" button.
 3. Please provide as much relevant information as possible, including:
-    - A detailed description of the vulnerability.
-    - Steps to reproduce the issue (including code snippets, if possible).
-    - The potential impact of the vulnerability.
-    - Any potential mitigations you might have considered.
+   - A detailed description of the vulnerability.
+   - Steps to reproduce the issue (including code snippets, if possible).
+   - The potential impact of the vulnerability.
+   - Any potential mitigations you might have considered.
 
 ### Our Commitment
 
