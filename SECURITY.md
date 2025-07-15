@@ -13,19 +13,10 @@ Instead, we ask that you use GitHub's **Private Vulnerability Reporting** featur
 1. Go to the "Security" tab of our GitHub repository.
 2. Click the "Report a vulnerability" button.
 3. Please provide as much relevant information as possible, including:
-    - A detailed description of the vulnerability.
-    - Steps to reproduce the issue (including code snippets, if possible).
-    - The potential impact of the vulnerability.
-    - Any potential mitigations you might have considered.
-
-### Our Commitment
-
-If you report a vulnerability to us, we commit to the following:
-
-- We will acknowledge receipt of your report in a timely manner.
-- We will provide you with an estimated timeline for addressing the vulnerability.
-- We will maintain an open line of communication with you throughout the process.
-- We will notify you when the vulnerability has been fixed.
+   - A detailed description of the vulnerability.
+   - Steps to reproduce the issue (including code snippets, if possible).
+   - The potential impact of the vulnerability.
+   - Any potential mitigations you might have considered.
 
 We believe in coordinating with security researchers to ensure that the fix is released before the vulnerability is publicly disclosed. We greatly appreciate your cooperation in making Firefish safer for everyone.
 
